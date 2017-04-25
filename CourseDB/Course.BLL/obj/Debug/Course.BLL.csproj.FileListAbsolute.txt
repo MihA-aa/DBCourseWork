@@ -1,0 +1,16 @@
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Course.BLL.dll.config
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Course.BLL.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Course.BLL.pdb
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Course.DAL.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\EntityFramework.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Course.DAL.pdb
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\EntityFramework.xml
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\obj\Debug\Course.BLL.csprojResolveAssemblyReference.cache
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\obj\Debug\Course.BLL.dll
+D:\Мишка гамми\универ\6сем\DB\CourseWork\CourseDB\Course.BLL\obj\Debug\Course.BLL.pdb
